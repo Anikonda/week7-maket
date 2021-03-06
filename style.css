@@ -137,7 +137,7 @@ body {
 
     .main-container {
         display: grid;
-        grid-template-columns: 35vw, 35vw;
+        grid-template-columns: 35vw;
         grid-template-rows: repeat(3, 1fr);
         justify-items: center;
         align-items: center;
